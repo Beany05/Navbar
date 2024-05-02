@@ -13,7 +13,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Mobile Portfolio Project <a name="about-project"></a>
+# 📖 Simple Nav Bar Project <a name="about-project"></a>
 
 This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
 
@@ -26,9 +26,9 @@ This webpage shows a sneak peek into the project I have developed and deployed, 
 - HTML
 - CSS
 
-### Key Features <a name="key-features"></a>
+<!-- ### Key Features <a name="key-features"></a>
 - **A mobile responsive page with a minimum width of 375px**
-- **Well designed figma template transformed to a real webpage through codes**
+- **Well designed figma template transformed to a real webpage through codes** -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -46,8 +46,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd Ngala-Portfolio
-  git clone https://github.com/ngalamac/Ngala-Portfolio.git
+  cd Navbar
+  git clone https://github.com/Beany05/Navbar.git
 ```
 
 ### Install
@@ -55,7 +55,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Ngala-Portfolio
+  cd Navbar
   npm install
 ```
 
@@ -84,10 +84,8 @@ You can deploy this project using:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **ELOUNDOU AMOUGOU**
-   **MBAKU SONITA**
-   **KESI UPBRIGHT**
 
-- GitHub: [Beany05](https://github.com/Beany05/ETS.NTECH-ASSESMENT2023-BATCH1.git)
+- GitHub: [Beany05](https://github.com/Beany05/Navbar.git)
 
 
 
